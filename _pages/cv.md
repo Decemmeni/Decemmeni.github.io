@@ -23,6 +23,7 @@ Skills
 * Adaptability
 * Self-motivated
 * Communication
+* Creative Thinking
 
 Publications
 ======
