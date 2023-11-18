@@ -83,7 +83,7 @@ author:
   name             : "Jordan C."
   avatar           : "profile.png"
   bio              : "A handsome computer scientist."
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
