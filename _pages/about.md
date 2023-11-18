@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am ... and I am handsome.
+Welcome! I am Jordan and I am handsome.
