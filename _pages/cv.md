@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* HS Graduate
+* Senior in HS
 
 Work experience
 ======
@@ -25,24 +25,6 @@ Skills
 * Communication
 * Creative Thinking
 
-Publications
+Extras
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+From freshman to junior year of high school, I participated in a club called Young Men's Leadership, where we actively look out for any help wanted around our school and our community. We had supported a nearby food pantry, worked at concession stands for special events, worked with Rebuilding Together to help out families, and cleaning the campus. 
