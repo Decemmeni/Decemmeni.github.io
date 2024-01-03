@@ -1,6 +1,6 @@
 ---
 title: "Search for the Gladiscenderem"
-excerpt: "Dream Game<br/><img src='/images/500x300.png'>"
+excerpt: "Dream Game<br/><img src='/images/sftgposter500x300.png'>"
 collection: portfolio
 ---
 
